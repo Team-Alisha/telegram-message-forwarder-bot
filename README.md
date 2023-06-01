@@ -42,7 +42,11 @@ With python3.7 or later.
 ```
 python3 -m bot
 ```
+## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Alisha/telegram-message-forwarder-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+
+The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 ### Copyright & License
 - Copyright &copy; 2021 &mdash; [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU General Public License Version 3 &dash; 29 June 2007](./LICENSE)
